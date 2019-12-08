@@ -1,6 +1,6 @@
-# Node Hello World
+# Node Js
 
-Simple node.js app that prints expencting outcome
+Simple node.js app that prints expecting outcome
 
 ## Run It
 
@@ -9,6 +9,6 @@ Simple node.js app that prints expencting outcome
 ## Assumptions
  1: In resultset, No repeatitive Ip should be there, Means if Same IP triggers than the previous one (less timestampe) will come.")
 
- 2: Assumption 2: Only one data is coming(means same day data).
+ 2: Only one data is coming(means same day data).
 
  
